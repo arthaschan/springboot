@@ -1,0 +1,6 @@
+
+1、该样例是最纯粹的Spring Boot项目中使用JdbcTemplate的例子。
+
+2、example.sql 文件是程序中使用到的数据库表结构。
+
+3、该spring-boot程序没有引用web所依赖的包，所以该项目并不是web项目。
